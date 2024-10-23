@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @il1a
-- 👀 I’m interested in ₵Ɏ฿ɆⱤ₣Ʉ₮ɄⱤɆ && ground-shaking start//UP//s
-- 🌱 I’m currently learning how to survive in modern jungle + to code like a pro
-- 💞️ I’m looking to collaborate on innovative projects that will change this world for .better, for .ever
-- 📫 How to reach me @iliaber @ TG
+- 👋 Hello, dear stranger. My name is Ilia. Welcome to my Git page! 
+- 👀 I’m interested in ₵Ɏ฿ɆⱤ ₣Ʉ₮ɄⱤɆ (Cyber Future) & groundbreaking tech
+- 🔬 Currently pursuing an M.Sc. in Data Science
+- 📩 Reach me on Telegram: @iliaber
 
 <!---
 il1a/il1a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
